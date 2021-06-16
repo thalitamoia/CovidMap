@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_covid">COVID 19</string>
+    <string name="app_usa">USA</string>
+    <string name="app_euro">Europa</string>
+    <string name="app_brasil">Brasil</string>
+</resources>
